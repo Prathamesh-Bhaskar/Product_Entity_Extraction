@@ -1,4 +1,3 @@
-# prompt: For this project think thoroughly and generate a readme description
 
 # Amazon ML Challenge OCR and Data Extraction Project
 
