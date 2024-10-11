@@ -1,0 +1,12 @@
+opencv
+cv2
+pytessaract
+os
+tesseract-ocr
+glob
+numpy
+re
+easyocr
+transformers
+
+
