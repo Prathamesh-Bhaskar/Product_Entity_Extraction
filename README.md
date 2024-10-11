@@ -47,4 +47,4 @@ The project is structured as follows:
 - Google Colaboratory platform
 - Pandas for data manipulation
 
-This project is a starting point for exploring OCR and data extraction for the Amazon ML Challenge. Hopefully it will assist you in extracting the necessary information from the product images. Good luck with your challenge! 
+##Project is open for PRs and open source contributions
